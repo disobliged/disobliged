@@ -1,6 +1,7 @@
-<h1 align="center"> Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
-Welcome to my GitHub page! Here you will find my projects that I procastinate on constantly.
+<h3 align="center">Welcome to my GitHub page! Here you will find my projects that I procastinate on constantly.</h3>
+<br>
 
 #### Coding Languages I'm currently learning:
 
@@ -12,5 +13,6 @@ Welcome to my GitHub page! Here you will find my projects that I procastinate on
 
 ☕️-Java
   -> Just started learning this, but I'll be honest, it's pain.
-  
-Am I good at any of the above? Not at all, I'm still learning.
+
+<br>
+Am I good at any of the languages above? Not at all, I'm still learning.
