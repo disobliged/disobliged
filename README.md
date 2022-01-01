@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub page! Here you will find my projects from my computer science endeavors. See you around!
+Welcome to my GitHub page! Here you will find my projects that I procastinate on constantly.
 
 #### Coding Languages I'm currently learning:
 
