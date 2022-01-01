@@ -1,4 +1,4 @@
-<h1 align="center">## Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
 
 Welcome to my GitHub page! Here you will find my projects that I procastinate on constantly.
 
