@@ -11,6 +11,6 @@ Welcome to my GitHub page! Here you will find my projects from my computer scien
   -> The second language I learned, not as good as the first but hey it's a start.
 
 ☕️-Java
-  -> Just started learning this, but I'll be honest, it's pain
+  -> Just started learning this, but I'll be honest, it's pain.
   
 Am I good at any of the above? Not at all, I'm still learning.
