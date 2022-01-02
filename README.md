@@ -5,13 +5,13 @@
 
 #### Coding Languages I'm currently learning:
 
-🐍-Python
+🐍 Python
   -> The langauge I have a basic grasp on, better than the other two at least.
 
-🍵-Javascript
+🍵 Javascript
   -> The second language I learned, not as good as the first but hey it's a start.
 
-☕️-Java
+☕️ Java
   -> Just started learning this, but I'll be honest, it's pain.
 
 <br>
