@@ -9,7 +9,7 @@
   -> The langauge I have a basic grasp on, better than the other two at least.
 
 🍵 Javascript
-  -> The second language I learned, not as good as the first but hey it's a start.
+  -> The second language I learned, not as good as the first, but hey it's a start.
 
 ☕️ Java
   -> Just started learning this, but I'll be honest, it's pain.
