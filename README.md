@@ -6,13 +6,13 @@
 #### Coding Languages I'm currently learning:
 
 🐍 Python
-  -> The langauge I have a basic grasp on, better than the other two at least.
+  -> The langauge I have a basic grasp on, better than the other two at least. Now experiementing with more intermediate level python, even though I get lost easily.
 
 🍵 Javascript
   -> The second language I learned, not as good as the first, but hey it's a start.
 
 ☕️ Java
-  -> Just started learning this, but I'll be honest, it's pain.
+  -> I only have a basic understanding of java; I tried to learn this a year ago, but never carried on with it.
 
 <br>
 Am I good at any of the languages above? Not at all, I'm still learning.
