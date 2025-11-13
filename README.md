@@ -6,10 +6,10 @@
 #### Coding Languages I'm currently learning:
 
 🐍 Python
-  -> The language I have a basic grasp on, better than the other two at least. Now experimenting with more intermediate-level Python, even though I get lost easily.
+  -> The language I have a basic grasp on, better than the other three at least. Now experimenting with more intermediate-level Python, even though I get lost easily.
 
 📊 R
-  -> Starting a new language and experimenting with data science! I'm still doing the basics.
+  -> Starting a new language and experimenting with data science! I'm still doing the basics, but I could make a pretty cool Random Forest model!
 
 🍵 Javascript
   -> The second language I learned, not as good as the first, but hey it's a start.
